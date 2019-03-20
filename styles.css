@@ -1,0 +1,19 @@
+.categoriesfood{
+    font-family: 'Ranga', cursive;
+        color:gold;
+}
+.categoriesanimal{
+    font-family: 'Archivo Black', sans-serif;
+        color:red;
+}
+.categoriescolor{
+    font-family: 'Ranga', cursive;
+        color:blue;
+}
+.categoriestechnology{
+    font-family: 'Ranga', cursive;
+        color:orange;
+}
+p{
+    color:brown;
+}
